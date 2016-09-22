@@ -2,3 +2,7 @@ This Changelog will be organized new Last
 
 4:33pm change log created
 -Francis
+
+4:54pm added application, public, and system folders from the CodeIgniter Template,
+as well added the about, gallery, and welcome controllers and views.
+-Derek
