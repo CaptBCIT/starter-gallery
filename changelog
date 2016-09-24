@@ -10,3 +10,8 @@ as well added the about, gallery, and welcome controllers and views.
 5:18pm Modified the template and reduced php about, welcome and gallery views to only hold content.
 I also modified the rendering of the views utilizing $this->data['pagebody'] = 'welcome'; 
 -Francis
+
+6:00pm Created new model Images.php, created _cell.php in views, edited the autoload.php in config,
+ edited Welcome.php controller and created a new Gallery.php controller.
+ Instead of hardcoded images, it now generates it from the database.
+-Gary
